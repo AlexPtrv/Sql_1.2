@@ -3,17 +3,17 @@ ALTER TABLE developers
   ADD salary FLOAT;
 
 UPDATE developers
-SET salary = 1900.21
+SET salary = 1420.1
 WHERE id = 1;
 
 UPDATE developers
-SET salary = 5000.5
+SET salary = 7040.6
 WHERE id = 2;
 
 UPDATE developers
-SET salary = 3000
+SET salary = 5000
 WHERE id = 3;
 
 UPDATE developers
-SET salary = 1000
+SET salary = 2000
 WHERE id = 4;
